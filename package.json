@@ -1,0 +1,16 @@
+{
+    "name": "node-app",
+    "description": "node app for jenkins testing",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "mocha": "6.1.4",
+        "supertest": "4.0.2"
+    }
+}
