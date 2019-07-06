@@ -1,6 +1,6 @@
 #!/bin/sh
-
-ssh ubuntu@34.221.93.91 <<EOF
+echo "initializing"
+ssh ubuntu@52.88.233.100 <<EOF
 
     cd ~/node-app
 
