@@ -1,4 +1,4 @@
 #!/bin/sh
-echo "initializng"
+echo "initiadfasdfalizng"
 ./node_modules/.bin/mocha ./test/test.js
-echo "posttest"
+echo "posttadfasfest"

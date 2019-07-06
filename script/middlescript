@@ -1,3 +1,3 @@
 #!/bin/sh
-echo "initializing middlescript"
+echo "initializing middlescr3ipt"
 echo "initializing middlescript" > /tmp/testfiles
