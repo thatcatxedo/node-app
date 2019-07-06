@@ -1,5 +1,5 @@
 #!/bin/sh
 echo "initializng"
 ./node_modules/.bin/mocha ./test/test.js
-./middlescript
+./script/middlescript
 
